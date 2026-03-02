@@ -20,6 +20,22 @@ Focused on clean architecture, scalable APIs, and writing code that goes beyond 
 
 ---
 
+## 🛠 Tech Stack
+
+**Languages**  
+C++ | Python | Java | JavaScript
+
+**Backend**  
+Spring Boot | Node.js | Express | REST APIs | MongoDB  
+
+**Frontend**  
+React | Component-based UI architecture | API integration  
+
+**Tools & Deployment**  
+Git | GitHub | Vercel | Postman |  pgAdmin 
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🚗 UrbanMiles – Car Rental Platform
@@ -44,21 +60,6 @@ Prompt-based image generation platform using external AI APIs.
 
 ---
 
-## 🛠 Tech Stack
-
-**Languages**  
-C++ | Python | Java | JavaScript
-
-**Backend**  
-Spring Boot | Node.js | Express | REST APIs | MongoDB  
-
-**Frontend**  
-React | Component-based UI architecture | API integration  
-
-**Tools & Deployment**  
-Git | GitHub | Vercel | Postman
-
----
 
 ## 🔭 I’m currently working on
 - Improving backend architecture patterns in production systems  
